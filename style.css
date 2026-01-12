@@ -8,8 +8,8 @@ body {
 }
 
 h1 {
-    color: orange               /* Orange text */
+    color:blue              /* Orange text */
     margin-top: 66px;             /* Space from top */
     font-size: 48px;
-    text-shadow: 42px 2px #888;   /* Subtle shadow */
+    text-shadow:92px 2px #888;   /* Subtle shadow */
 }

@@ -9,7 +9,7 @@ body {
 
 h1 {
     color:red               /* Orange text */
-    margin-top: 50px;             /* Space from top */
+    margin-top: 66px;             /* Space from top */
     font-size: 48px;
     text-shadow: 2px 2px #888;   /* Subtle shadow */
 }
